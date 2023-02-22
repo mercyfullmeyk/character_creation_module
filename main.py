@@ -85,6 +85,7 @@ def choice_char_class() -> str:
                                'чтобы выбрать другого персонажа ').lower()
     return char_class
 
+
 if __name__ == '__main__':
     run_screensaver
     print('Приветствую тебя, искатель приключений!')
